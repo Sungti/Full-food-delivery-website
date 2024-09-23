@@ -1,0 +1,11 @@
+{
+  "env": {
+    "MONGO_USER": "your mongodb username ",
+    "MONGO_PASSWORD": "your mongodb password",
+    "MONGO_DATABASE": "your mongodb database name",
+    "SENDGRID_KEY": "Your sendgrid key",
+    "MONGODB_URI":"your mongodb URI"
+    
+
+  }
+}
